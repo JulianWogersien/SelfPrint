@@ -5,6 +5,13 @@ TODO*.*
 *.pptx
 *.pdf
 
+.vscode
+.vsocde/
+.editorconfig
+.clang-format
+.clang-tidy
+mainDebug
+
 ################################
 ########### FOLDERS ############
 ################################
