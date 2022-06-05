@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/julian/Development/C/printProgram'
+make: Leaving directory '/home/julian/Development/C/printProgram'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
